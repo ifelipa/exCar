@@ -45,7 +45,7 @@ public class Main {
 		car1.potFiscal();
 		System.out.println("El coche Hibrido "+ car2.getMarca() + " tiene "+ car2.potFiscal());
 
-		
+		sc.close();
 	}
 
 }
